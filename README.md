@@ -1,20 +1,133 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 ViralStrats - AI Viral Video Research & Script Generator
 
-# Run and deploy your AI Studio app
+ViralStrats is an AI-powered tool that helps creators discover viral YouTube content, analyze why it performs well, and instantly generate high-converting scripts.
 
-This contains everything you need to run your app locally.
+Instead of guessing what works — copy proven viral patterns with AI.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1cymKTtoV9CL_Wrnsno8NCGZGiwF0mYi0
+---
 
-## Run Locally
+## ✨ Core Features
 
-**Prerequisites:**  Node.js
+### 🔍 Smart Video Search
+- Search any keyword
+- Fetch latest & highest-view YouTube videos
+- Instantly discover trending content
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 📊 AI Video Analysis
+For every video, the system analyzes:
+- Views & performance metrics
+- Title & description strategy
+- Content angle
+- Viral patterns
+
+---
+
+### 🎯 Hook Generator
+- Extracts or generates viral hooks
+- Suggests attention-grabbing openings
+- Helps increase watch time & engagement
+
+---
+
+### ✍️ AI Script Generator
+- Generates ready-to-use content scripts
+- Based on successful viral videos
+- Saves hours of manual work
+
+---
+
+### ⚡ Content Strategy Insights
+- What type of content to create
+- How to structure your video
+- What works in your niche right now
+
+---
+
+## 🧠 How It Works
+
+1. Enter a keyword (e.g. "fitness tips", "make money online")
+2. Get top-performing recent YouTube videos
+3. Select a video
+4. AI analyzes it automatically
+5. Get:
+   - Hook ideas
+   - Content strategy
+   - Full script
+
+---
+
+## 🎯 Use Cases
+
+- 🎬 YouTube creators
+- 📱 TikTok / Reels creators
+- 💼 Digital marketers
+- 🛍️ Dropshippers & eCommerce brands
+- 📈 Growth hackers
+
+---
+
+## ⚡ Why ViralStrats?
+
+- No more content guesswork
+- Use proven viral ideas
+- Save time on research
+- Generate scripts instantly
+- Scale content production fast
+
+---
+
+## 🌐 Live Demo
+
+👉 https://viralstrats.toolsfinity.io/
+
+---
+
+## 🛠️ Tech Stack
+
+(Add your actual stack here)
+
+- Frontend: React / Next.js
+- Backend: PHP / Node.js
+- APIs: YouTube Data API
+- AI: OpenAI / custom AI logic
+
+---
+
+## 🚧 Project Status
+
+Active development 🚀
+
+Upcoming features:
+- Auto content generation (bulk)
+- Multi-platform support
+- Performance prediction AI
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+- Fork the repo
+- Make changes
+- Submit a PR
+
+---
+
+## 📜 License
+
+MIT License
+
+---
+
+## 👨‍💻 Author
+
+Badar Bukhari
+
+---
+
+## ⭐ Support
+
+If you find this useful, give it a star ⭐
